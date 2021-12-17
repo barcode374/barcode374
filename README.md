@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @barcode374
-- 👀 I’m interested in Machine Learning & Data Science
-- 🌱 I’m currently learning Flutter
+- 👋 Hi, I’m Hizqeel,
+- 🌱 Working on a Spotify Clone, that will have the ability to stream and download almost every Song that is available on Spotify.
 - 📫 How to reach me hizqeeljaved2013@gmail.com
 
 <!---
