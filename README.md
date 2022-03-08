@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Hizqeel.
-- 🌱 Working on a Spotify Clone, that will have the ability to stream and download almost every Song that is available on Spotify.
 - 📫 Reach me @ hizqeeljaved2013@gmail.com
 
 <!---
