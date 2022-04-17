@@ -5,7 +5,7 @@
 I am Final Year Computer Science Student currently working on my FYP which is a Covid 19 Detector based on CT/X-Ray Scans. I have experience working with JavaScript, PHP, Python, NodeJS & C++.
 
 ### 💼  I'm also Working as a Part Time Engineer: 
-* Working as an Associate Software Engineer at CareAxiom/Caremerge.
+* Working as an Associate Software Engineer at Careaxiom/Caremerge.
 * http://www.caremerge.com
 
  **Frameworks:**
