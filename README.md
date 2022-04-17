@@ -33,6 +33,8 @@ I have experience working with JavaScript, PHP, Python, NodeJS, C++.
   &nbsp;&nbsp;
   <a href="https://web.facebook.com/hizqeeel"><img src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   &nbsp;&nbsp;
+  <a href="https://www.instagram.com/h1zqeel"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  &nbsp;&nbsp;
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=hxzqll" alt="hxzqll" />
