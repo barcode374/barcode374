@@ -12,7 +12,7 @@ I am Final Year Computer Science Student currently working on my FYP which is a 
 <p align="left">
   <img src="https://img.icons8.com/color/240/000000/nodejs.png" width="30"/>
   <img src="https://img.icons8.com/fluency/344/laravel.png" width="30"/>
-  <img src="https://img.icons8.com/ios/344/flask.png" width="30"/>
+  <img src="https://img.icons8.com/color/344/flask.png" width="30"/>
   <img src="https://img.icons8.com/plasticine/100/000000/react.png" width="30"/>
   <img src="https://img.icons8.com/color/344/flutter.png" width="30"/>
 </p>
