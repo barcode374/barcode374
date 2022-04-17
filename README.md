@@ -2,11 +2,9 @@
 
 ## I'm Hizqeel Javed, 
 
-I am Final Year Computer Science Student currently working on my FYP which is a Covid 19 Detector Using CT/X-Ray Scans.
+I am Final Year Computer Science Student currently working on my FYP which is a Covid 19 Detector based on CT/X-Ray Scans.
 
 I have experience working with JavaScript, PHP, Python, NodeJS, C++.
-
-
 
 ### 💼  I'm also Working as a Part Time Engineer: 
 * Working as an Associate Software Engineer at CareAxiom/Caremerge.
