@@ -3,7 +3,6 @@
 ## I'm Hizqeel Javed
 
 * Working as an Associate Software Engineer at Careaxiom/Caremerge.
-* http://www.caremerge.com
 
  **Frameworks:**
 <p align="left">
