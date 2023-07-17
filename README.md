@@ -19,6 +19,7 @@ Full Stack Web Developer with an interest in Cross Platform App Development
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=h1zqeel&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=h1zqeel&label=Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
